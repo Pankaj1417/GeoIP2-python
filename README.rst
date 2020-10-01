@@ -2,7 +2,7 @@
 MaxMind GeoIP2 Python API
 =========================
 
-Description
+Description:-
 -----------
 
 This package provides an API for the GeoIP2 `web services
